@@ -1,0 +1,1 @@
+tensorflow>=2.15,<3.0\nstreamlit>=1.32\nnumpy>=1.24\nmatplotlib>=3.7\nscikit-learn>=1.3\nPillow>=10.0\n
