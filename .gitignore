@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\nmodels/*.keras\nmodels/*.h5\nmodels/*.png\n.env\n.vscode/\n.DS_Store\n
